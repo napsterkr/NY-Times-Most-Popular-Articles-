@@ -18,8 +18,17 @@ Requirements with comments in line :
    ● The app implement a local database to support offline mode.
    
    ● The app supports pull to refresh.
+   
+Steps to compile The project in android studio
+-------------------------------------
+   ● Download the source code as .zip
+   ● Extract the downloaded folder.
+   ● Open the project with android studio.
+   ● It will automatically download all the required dependencies.
+   ●  Invalidate cache and restart the IDE in case of any errors during compilation.
+   
 
-## Implemented things
+## Implemented Concepts
 `MVVM(ViewModel, LiveData)` where separated app and data.where data module have all network and data base communication.
 Dependency Injection is implemented using `hilt`
 Caching is implemented using `Room Database`
@@ -30,7 +39,7 @@ Kotlin coroutines
 
 ## Unit Testing
 
- Unit testing is achieved  `Mockito` and `MockWebServer`
+ Unit testing is achieved using `Mockito`.
 
 ### Libraries
 * [Android Support Library][support-lib]
