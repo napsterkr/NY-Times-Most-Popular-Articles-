@@ -6,6 +6,7 @@ Introduction
 Sample Application for project.
 
 Requirements with comments in line :
+
 ● The app is using Kotlin as programming language.
 ● Added unit tests.
 ● App showing NYT Most popular API for different values for period
