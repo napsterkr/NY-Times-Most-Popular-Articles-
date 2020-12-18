@@ -22,9 +22,13 @@ Requirements with comments in line :
 Steps to compile The project in android studio
 -------------------------------------
    ● Download the source code as .zip
+   
    ● Extract the downloaded folder.
+   
    ● Open the project with android studio.
+   
    ● It will automatically download all the required dependencies.
+   
    ●  Invalidate cache and restart the IDE in case of any errors during compilation.
    
 
