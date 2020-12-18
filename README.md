@@ -12,7 +12,8 @@ Requirements with comments in line :
 ● Added unit tests.
 
 ● App showing NYT Most popular API for different values for period
-    ○ click on Article Item will redirect the user to detail page.
+
+   ● click on Article Item will redirect the user to detail page.
     
    ● The app implement a local database to support offline mode.
    
