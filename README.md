@@ -15,6 +15,7 @@ Requirements with comments in line :
     ○ click on Article Item will redirect the user to detail page.
     
    ● The app implement a local database to support offline mode.
+   
    ● The app supports pull to refresh.
 
 ## Implemented things
