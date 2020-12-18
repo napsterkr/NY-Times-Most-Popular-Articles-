@@ -1,0 +1,1260 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/80ebc2b0-44c7-584f-bb05-0fa01ba93586",
+      "url": "https://www.nytimes.com/2020/10/19/business/media/jeffrey-toobin-new-yorker-suspended.html",
+      "id": 100000007403594,
+      "asset_id": 100000007403594,
+      "source": "New York Times",
+      "published_date": "2020-10-19",
+      "updated": "2020-10-20 14:14:48",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Videophones and Videoconferencing;Toobin, Jeffrey;New Yorker;CNN;Zoom Video Communications",
+      "column": null,
+      "byline": "By Johnny Diaz and Azi Paybarah",
+      "type": "Article",
+      "title": "New Yorker Suspends Jeffrey Toobin After Zoom Incident",
+      "abstract": "In a statement, the magazine said it was investigating a matter involving the author and CNN legal analyst.",
+      "des_facet": [
+        "Videophones and Videoconferencing"
+      ],
+      "org_facet": [
+        "New Yorker",
+        "CNN",
+        "Zoom Video Communications"
+      ],
+      "per_facet": [
+        "Toobin, Jeffrey"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I made an embarrassingly stupid mistake, believing I was off-camera,” Jeffrey Toobin said in a statement.",
+          "copyright": "Vivien Killilea/Getty Images for PSIFF",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/multimedia/20xp-toobin-2016/20xp-toobin-2016-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/multimedia/20xp-toobin-2016/20xp-toobin-2016-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/multimedia/20xp-toobin-2016/20xp-toobin-2016-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b3d5a02a-9dda-5691-9f33-0158223c2aaa",
+      "url": "https://www.nytimes.com/2020/10/14/nyregion/amy-cooper-false-report-charge.html",
+      "id": 100000007393808,
+      "asset_id": 100000007393808,
+      "source": "New York Times",
+      "published_date": "2020-10-14",
+      "updated": "2020-10-16 21:15:46",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Black Lives Matter Movement;Black People;Discrimination;Cooper, Amy (May 25, 2020 Central Park Incident);Cooper, Christian (Birder);Central Park (Manhattan, NY)",
+      "column": null,
+      "byline": "By Troy Closson",
+      "type": "Article",
+      "title": "Amy Cooper Falsely Accused Black Bird-Watcher in 2nd 911 Conversation",
+      "abstract": "Prosecutors said Ms. Cooper spoke to a police dispatcher twice, first claiming she had been threatened by a man in Central Park, then later saying he had tried to assault her.",
+      "des_facet": [
+        "Black Lives Matter Movement",
+        "Black People",
+        "Discrimination"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Cooper, Amy (May 25, 2020 Central Park Incident)",
+        "Cooper, Christian (Birder)"
+      ],
+      "geo_facet": [
+        "Central Park (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amy Cooper was publicly shamed and lost her job after an encounter in Central Park that reignited discussions about false accusations made against Black people to the police. ",
+          "copyright": "Christian Cooper, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/13/nyregion/00amycooper/00amycooper-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/13/nyregion/00amycooper/00amycooper-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/13/nyregion/00amycooper/00amycooper-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0f0d3fd9-34ff-517f-b8fa-d3e7d5c72ed8",
+      "url": "https://www.nytimes.com/2020/10/16/us/politics/republican-senators-trump.html",
+      "id": 100000007399708,
+      "asset_id": 100000007399708,
+      "source": "New York Times",
+      "published_date": "2020-10-16",
+      "updated": "2020-10-18 13:19:19",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, Senate;Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Republican Party;Senate",
+      "column": null,
+      "byline": "By Catie Edmondson",
+      "type": "Article",
+      "title": "Fearing a ‘Blood Bath,’ Republican Senators Begin to Edge Away From Trump",
+      "abstract": "The statements offer an answer to the question of when Republicans might begin to repudiate the president after years of embracing him: the moment they believed he threatened their own political survival.",
+      "des_facet": [
+        "Elections, Senate",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Senate"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senators Ted Cruz, Lindsey Graham and John Cornyn on Wednesday at the Capitol. Mr. Cruz and Mr. Graham have both made remarks about possible Republican losses because of President Trump.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/16/us/politics/16dc-repubs-1/16dc-repubs-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/16/us/politics/16dc-repubs-1/merlin_178536195_0256de16-f901-406e-8767-cc439f6d69e7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/16/us/politics/16dc-repubs-1/merlin_178536195_0256de16-f901-406e-8767-cc439f6d69e7-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f92c88bc-5cd4-597a-9ce0-d1b867b0694e",
+      "url": "https://www.nytimes.com/2020/10/15/us/elections/savannah-guthrie-trump.html",
+      "id": 100000007398666,
+      "asset_id": 100000007398666,
+      "source": "New York Times",
+      "published_date": "2020-10-15",
+      "updated": "2020-10-18 10:30:44",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "QAnon;United States Politics and Government;Trump, Donald J;Guthrie, Savannah;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Savannah Guthrie gets answers from Trump by setting a fast pace and following up.",
+      "abstract": "Ms. Guthrie pressed the president on why he had retweeted a conspiracy theory, and whether he’d taken a coronavirus test on the day of the last debate.",
+      "des_facet": [
+        "QAnon",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Guthrie, Savannah",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c1b25e90-e5d8-536a-b46e-ac92b957b249",
+      "url": "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.html",
+      "id": 100000007404922,
+      "asset_id": 100000007404922,
+      "source": "New York Times",
+      "published_date": "2020-10-20",
+      "updated": "2020-10-22 01:40:08",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Trump Tax Returns;Conflicts of Interest;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Biden, Hunter;Ruffin, Phil;Federal Bureau of Investigation;Senate;Trump Organization;Trump Tower (Manhattan, NY);United States;China",
+      "column": null,
+      "byline": "By Mike McIntire, Russ Buettner and Susanne Craig",
+      "type": "Article",
+      "title": "Trump Records Shed New Light on Chinese Business Pursuits",
+      "abstract": "As he raises questions about his opponent’s standing with China, President Trump’s taxes reveal details about his own activities there, including a previously unknown bank account.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Trump Tax Returns",
+        "Conflicts of Interest",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation",
+        "Senate",
+        "Trump Organization",
+        "Trump Tower (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Biden, Hunter",
+        "Ruffin, Phil"
+      ],
+      "geo_facet": [
+        "United States",
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at a 2017 meeting with the leader of China, Xi Jinping. Mr. Trump has a long history of chasing licensing deals in the country.",
+          "copyright": "Stephen Crowley/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/multimedia/xxtrump-china-1/xxtrump-china-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/multimedia/xxtrump-china-1/xxtrump-china-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/multimedia/xxtrump-china-1/xxtrump-china-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/05277442-70b4-55c6-a6f1-ce797963d9b7",
+      "url": "https://www.nytimes.com/2020/10/18/business/media/new-york-post-hunter-biden.html",
+      "id": 100000007397108,
+      "asset_id": 100000007397108,
+      "source": "New York Times",
+      "published_date": "2020-10-18",
+      "updated": "2020-10-21 08:34:11",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Presidential Election of 2020;News and News Media;Conflicts of Interest;Bannon, Stephen K;Biden, Hunter;Biden, Joseph R Jr;Giuliani, Rudolph W;Murdoch, Rupert;Murdoch, Lachlan;Allan, Col;Burisma Holdings Ltd;New York Post",
+      "column": null,
+      "byline": "By Katie Robertson",
+      "type": "Article",
+      "title": "New York Post Published Hunter Biden Report Amid Newsroom Doubts",
+      "abstract": "Some reporters withheld their bylines and questioned the credibility of an article that made the tabloid’s front page on Wednesday.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "News and News Media",
+        "Conflicts of Interest"
+      ],
+      "org_facet": [
+        "Burisma Holdings Ltd",
+        "New York Post"
+      ],
+      "per_facet": [
+        "Bannon, Stephen K",
+        "Biden, Hunter",
+        "Biden, Joseph R Jr",
+        "Giuliani, Rudolph W",
+        "Murdoch, Rupert",
+        "Murdoch, Lachlan",
+        "Allan, Col"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The offices of The New York Post. Staff members had concerns about the reliability of a front-page article’s sources and its late-campaign timing.",
+          "copyright": "Kevin Hagen/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/lens/18nypost-building/18nypost-building-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/lens/18nypost-building/18nypost-building-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/lens/18nypost-building/18nypost-building-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bc30dacc-2ef2-5e8f-83e9-ecdadb28a5da",
+      "url": "https://www.nytimes.com/2020/10/16/style/modern-love-he-married-a-sociopath-me.html",
+      "id": 100000007392836,
+      "asset_id": 100000007392836,
+      "source": "New York Times",
+      "published_date": "2020-10-16",
+      "updated": "2020-10-16 17:05:09",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Love (Emotion);Marriages;Lying;Dating and Relationships;Psychology and Psychologists",
+      "column": null,
+      "byline": "By Patric Gagne",
+      "type": "Article",
+      "title": "He Married a Sociopath: Me",
+      "abstract": "As a wife and a mother, I have learned how to tell the truth. Which is why I always know when my husband is lying.",
+      "des_facet": [
+        "Love (Emotion)",
+        "Marriages",
+        "Lying",
+        "Dating and Relationships",
+        "Psychology and Psychologists"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a053cc3d-7389-5ce3-ab30-f7f99ec600b0",
+      "url": "https://www.nytimes.com/2020/10/17/style/sacha-baron-cohen-maureen-dowd-interview.html",
+      "id": 100000007397833,
+      "asset_id": 100000007397833,
+      "source": "New York Times",
+      "published_date": "2020-10-17",
+      "updated": "2020-10-17 16:38:15",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Actors and Actresses;Comedy and Humor;Movies;Content Type: Personal Profile;Cohen, Sacha Baron",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Sacha Baron Cohen: This Time He’s Serious",
+      "abstract": "Reviving his Borat character and playing the political activist Abbie Hoffman, the actor feels he “had to ring the alarm bell and say that democracy is in peril this year.”",
+      "des_facet": [
+        "Actors and Actresses",
+        "Comedy and Humor",
+        "Movies",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Cohen, Sacha Baron"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Leading man: Sacha Baron Cohen’s riotous characters have perhaps masked his dramatic abilities.",
+          "copyright": "Buck Ellison for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/fashion/17WITH-SACHABARONCOHEN1/17WITH-SACHABARONCOHEN1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/fashion/17WITH-SACHABARONCOHEN1/17WITH-SACHABARONCOHEN1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/18/fashion/17WITH-SACHABARONCOHEN1/17WITH-SACHABARONCOHEN1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4d0a9ec0-1985-5aae-ac40-4e454eec44f8",
+      "url": "https://www.nytimes.com/2020/10/14/us/politics/stock-market-coronavirus-trump.html",
+      "id": 100000007361138,
+      "asset_id": 100000007361138,
+      "source": "New York Times",
+      "published_date": "2020-10-14",
+      "updated": "2020-10-21 05:14:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;United States Economy;Stocks and Bonds;Trump, Donald J;Kudlow, Lawrence A;Tepper, David A;Navarro, Peter;Callanan, William Francis;Philipson, Tomas J;Hoover Institution;Appaloosa Management;National Economic Council (US);White House Council of Economic Advisers",
+      "column": null,
+      "byline": "By Kate Kelly and Mark Mazzetti",
+      "type": "Article",
+      "title": "As Virus Spread, Reports of Trump Administration’s Private Briefings Fueled Sell-Off",
+      "abstract": "A hedge fund consultant’s summary of private presentations by White House economic advisers fanned investor worries.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "United States Economy",
+        "Stocks and Bonds"
+      ],
+      "org_facet": [
+        "Hoover Institution",
+        "Appaloosa Management",
+        "National Economic Council (US)",
+        "White House Council of Economic Advisers"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Kudlow, Lawrence A",
+        "Tepper, David A",
+        "Navarro, Peter",
+        "Callanan, William Francis",
+        "Philipson, Tomas J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Kudlow, the director of the National Economic Council, boasted in February that the coronavirus was contained in the United States and that “it’s pretty close to airtight.” His private message was more ambiguous.",
+          "copyright": "Anna Moneymaker/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/14/us/politics/14dc-virus-investigate1/14dc-virus-investigate1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/14/us/politics/14dc-virus-investigate1/merlin_169712496_88f095bf-9871-4844-ba7e-aa259c3ae835-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/14/us/politics/14dc-virus-investigate1/merlin_169712496_88f095bf-9871-4844-ba7e-aa259c3ae835-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f952aeb6-0a96-5c42-8635-1fde981eed6c",
+      "url": "https://www.nytimes.com/2020/10/15/us/politics/ben-sasse-trump.html",
+      "id": 100000007398218,
+      "asset_id": 100000007398218,
+      "source": "New York Times",
+      "published_date": "2020-10-15",
+      "updated": "2020-10-16 09:51:11",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, Senate;Presidential Election of 2020;United States Politics and Government;Sasse, Benjamin E;Trump, Donald J;Republican Party;Senate;Nebraska",
+      "column": null,
+      "byline": "By Nicholas Fandos",
+      "type": "Article",
+      "title": "Slamming Trump, G.O.P. Senator Warns of a ‘Republican Blood Bath’",
+      "abstract": "Senator Ben Sasse of Nebraska issued a scathing takedown of President Trump during a telephone town hall with constituents, saying he cozied up to dictators and white supremacists.",
+      "des_facet": [
+        "Elections, Senate",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Senate"
+      ],
+      "per_facet": [
+        "Sasse, Benjamin E",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Nebraska"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Ben Sasse’s critique played out over a few short minutes after someone on the call asked the senator about his previous criticisms of the president.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/15/us/politics/15dc-sasse/15dc-sasse-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/15/us/politics/15dc-sasse/15dc-sasse-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/15/us/politics/15dc-sasse/15dc-sasse-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fc1550f1-2eee-527c-a076-36da8b469e7a",
+      "url": "https://www.nytimes.com/2020/10/19/us/politics/diplomat-attacks-havana-syndrome.html",
+      "id": 100000006948408,
+      "asset_id": 100000006948408,
+      "source": "New York Times",
+      "published_date": "2020-10-19",
+      "updated": "2020-10-21 00:29:58",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States International Relations;Diplomatic Service, Embassies and Consulates;Espionage and Intelligence Services;Government Employees;Workplace Hazards and Violations;Microwaves (Electromagnetic Waves);Headaches;United States Politics and Government;Trump, Donald J;State Department;Central Intelligence Agency;United States Office of Special Counsel;China;Cuba;Russia",
+      "column": null,
+      "byline": "By Ana Swanson, Edward Wong and Julian E. Barnes",
+      "type": "Article",
+      "title": "U.S. Diplomats and Spies Battle Trump Administration Over Suspected Attacks",
+      "abstract": "American officials in China, Cuba and Russia say U.S. agencies are concealing the true extent of the episodes, leaving colleagues vulnerable to hostile actions abroad.",
+      "des_facet": [
+        "United States International Relations",
+        "Diplomatic Service, Embassies and Consulates",
+        "Espionage and Intelligence Services",
+        "Government Employees",
+        "Workplace Hazards and Violations",
+        "Microwaves (Electromagnetic Waves)",
+        "Headaches",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "State Department",
+        "Central Intelligence Agency",
+        "United States Office of Special Counsel"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "China",
+        "Cuba",
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mark Lenzi, who worked for the State Department in Guangzhou, China, experiences the same mysterious affliction as dozens of diplomats and spies at the American Embassy in Havana.",
+          "copyright": "Cody O'Loughlin for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/21/us/politics/00dc-havanasyndrome-1/merlin_169983978_7b0847ff-0eda-45b7-a274-9a663a4a530d-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/21/us/politics/00dc-havanasyndrome-1/00dc-havanasyndrome-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/21/us/politics/00dc-havanasyndrome-1/00dc-havanasyndrome-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9034a996-a9e1-52fa-b238-934652719145",
+      "url": "https://www.nytimes.com/2020/10/17/us/coronavirus-pandemic-fatigue.html",
+      "id": 100000007393987,
+      "asset_id": 100000007393987,
+      "source": "New York Times",
+      "published_date": "2020-10-17",
+      "updated": "2020-10-21 08:43:12",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Contact Tracing (Public Health);Masks;Anxiety and Stress;United States;Europe",
+      "column": null,
+      "byline": "By Julie Bosman, Sarah Mervosh and Marc Santora",
+      "type": "Article",
+      "title": "As the Coronavirus Surges, a New Culprit Emerges: Pandemic Fatigue",
+      "abstract": "Exhaustion and impatience are creating new risks as cases soar in parts of the world. “They have had enough,” one U.S. mayor said of her residents.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Contact Tracing (Public Health)",
+        "Masks",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After a spring characterized by fear and safety, many people exhausted by the pandemic are risking the dangers of the coronavirus out of desire or necessity.",
+          "copyright": "Gabriela Bhaskar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/17/us/17virus-stateofthevirus/17virus-stateofthevirus-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/17/us/17virus-stateofthevirus/17virus-stateofthevirus-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/17/us/17virus-stateofthevirus/17virus-stateofthevirus-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6c54b7ff-d1bd-549f-9490-72fe6f1add19",
+      "url": "https://www.nytimes.com/2020/10/19/world/americas/peru-cat-nazca-lines-nasca.html",
+      "id": 100000007402264,
+      "asset_id": 100000007402264,
+      "source": "New York Times",
+      "published_date": "2020-10-19",
+      "updated": "2020-10-20 03:50:00",
+      "section": "World",
+      "subsection": "Americas",
+      "nytdsection": "world",
+      "adx_keywords": "Cats;Archaeology and Anthropology;United Nations Educational, Scientific and Cultural Organization;Nazca Lines (Peru);Peru",
+      "column": null,
+      "byline": "By Tiffany May",
+      "type": "Article",
+      "title": "2,000-Year-Old Cat Etching Found at Nazca Lines Site in Peru",
+      "abstract": "Archaeologists came across the faded feline outline while conducting maintenance work at the UNESCO heritage site.",
+      "des_facet": [
+        "Cats",
+        "Archaeology and Anthropology"
+      ],
+      "org_facet": [
+        "United Nations Educational, Scientific and Cultural Organization"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Nazca Lines (Peru)",
+        "Peru"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A photo released by the Peruvian government shows the figure of a feline on a hillside in Nazca, Peru, this month.",
+          "copyright": "Johny Islas/Peru's Ministry of Culture-Nasca-Palpa, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/world/19peru-cat-1sub/19peru-cat-1sub-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/world/19peru-cat-1sub/19peru-cat-1sub-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/world/19peru-cat-1sub/19peru-cat-1sub-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7efdcb73-f3a4-501f-a372-1b89a948a817",
+      "url": "https://www.nytimes.com/2020/10/16/dining/perfect-chocolate-chip-cookies-ravneet-gill.html",
+      "id": 100000007391328,
+      "asset_id": 100000007391328,
+      "source": "New York Times",
+      "published_date": "2020-10-16",
+      "updated": "2020-10-21 00:39:07",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Cookies;Cooking and Cookbooks;Chocolate;Pastries;Gill, Ravneet",
+      "column": null,
+      "byline": "By Charlotte Druckman",
+      "type": "Article",
+      "title": "A ‘Perfect’ Chocolate Chip Cookie, and the Chef Who Created It",
+      "abstract": "The British pastry chef Ravneet Gill ran countless tests to arrive at her version of the classic recipe.",
+      "des_facet": [
+        "Cookies",
+        "Cooking and Cookbooks",
+        "Chocolate",
+        "Pastries"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Gill, Ravneet"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The dough is rolled into balls right away, as opposed to chilling it first, giving these chocolate chip cookies gentle domes in the center.",
+          "copyright": "Ryan Liebe for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/21/dining/16cookie4/20cookie4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/21/dining/16cookie4/merlin_177117912_a1ebb5f5-4632-4e07-85d2-0bd270dda5b2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/21/dining/16cookie4/merlin_177117912_a1ebb5f5-4632-4e07-85d2-0bd270dda5b2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/768386a4-1dad-543d-8ef8-bfaaeff7ab72",
+      "url": "https://www.nytimes.com/2020/10/17/us/lisa-montgomery-execution.html",
+      "id": 100000007401104,
+      "asset_id": 100000007401104,
+      "source": "New York Times",
+      "published_date": "2020-10-17",
+      "updated": "2020-10-18 20:16:28",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Capital Punishment;Murders, Attempted Murders and Homicides;Women and Girls;Kidnapping and Hostages;Montgomery, Lisa M;Stinnett, Bobbie Jo;Terre Haute (Ind)",
+      "column": null,
+      "byline": "By Marie Fazio",
+      "type": "Article",
+      "title": "U.S. Schedules First Execution of a Woman in Nearly 70 Years",
+      "abstract": "Lisa Montgomery, the only woman on federal death row, was convicted of killing a pregnant woman and attempting to pass the baby off as her own.",
+      "des_facet": [
+        "Capital Punishment",
+        "Murders, Attempted Murders and Homicides",
+        "Women and Girls",
+        "Kidnapping and Hostages"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Montgomery, Lisa M",
+        "Stinnett, Bobbie Jo"
+      ],
+      "geo_facet": [
+        "Terre Haute (Ind)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "If Lisa Montgomery is executed, her death will be the first federal execution of a woman since 1953, when Bonnie Heady was killed in a gas chamber for the kidnapping and murder of a 6-year-old boy in Kansas City, Mo.",
+          "copyright": "via Attorneys for Lisa Montgomery",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/17/multimedia/17xp-execution-pix/17xp-execution-pix-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/17/multimedia/17xp-execution-pix/17xp-execution-pix-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/17/multimedia/17xp-execution-pix/17xp-execution-pix-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a21fd7e5-b474-5ed3-9b2c-86fe2f4e1757",
+      "url": "https://www.nytimes.com/2020/10/17/opinion/covid-masks-freedom-democrats.html",
+      "id": 100000007397467,
+      "asset_id": 100000007397467,
+      "source": "New York Times",
+      "published_date": "2020-10-17",
+      "updated": "2020-10-19 05:32:41",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Masks;Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Democratic Party;United States",
+      "column": null,
+      "byline": "By Michael Tomasky",
+      "type": "Article",
+      "title": "There’s a Word for Why We Wear Masks, and Liberals Should Say It",
+      "abstract": "It’s high time Democrats played some philosophical offense on the concept of “freedom.”",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Trump rally in Pennsylvania this month.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/opinion/19tomasky-01/17tomasky-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/opinion/19tomasky-01/merlin_178491924_698562d1-db92-42e8-8136-61d816825372-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/opinion/19tomasky-01/merlin_178491924_698562d1-db92-42e8-8136-61d816825372-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/98b828c0-7b97-55b9-806d-b697a6f1d240",
+      "url": "https://www.nytimes.com/2020/10/13/us/michael-reinoehl-antifa-portland-shooting.html",
+      "id": 100000007384006,
+      "asset_id": 100000007384006,
+      "source": "New York Times",
+      "published_date": "2020-10-13",
+      "updated": "2020-10-15 20:40:25",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Antifa Movement (US);Police Brutality, Misconduct and Shootings;Fugitives;Reinoehl, Michael (1972-2020);Danielson, Aaron J (d 2020);United States Marshals Service;Patriot Prayer;Washington (State);Portland (Ore)",
+      "column": null,
+      "byline": "By Evan Hill, Mike Baker, Derek Knowles and Stella Cooper",
+      "type": "Article",
+      "title": "‘Straight to Gunshots’: How a U.S. Task Force Killed an Antifa Activist",
+      "abstract": "New accounts from the scene raise questions about whether Michael Reinoehl, suspected of killing a far-right Trump supporter, pulled out a gun before officers fatally shot him.",
+      "des_facet": [
+        "Antifa Movement (US)",
+        "Police Brutality, Misconduct and Shootings",
+        "Fugitives"
+      ],
+      "org_facet": [
+        "United States Marshals Service",
+        "Patriot Prayer"
+      ],
+      "per_facet": [
+        "Reinoehl, Michael (1972-2020)",
+        "Danielson, Aaron J (d 2020)"
+      ],
+      "geo_facet": [
+        "Washington (State)",
+        "Portland (Ore)"
+      ],
+      "media": [
+        
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a6b8ceea-67cc-5f53-a373-086ed81a5c55",
+      "url": "https://www.nytimes.com/2020/10/16/us/trump-california-wildfire-relief.html",
+      "id": 100000007399062,
+      "asset_id": 100000007399062,
+      "source": "New York Times",
+      "published_date": "2020-10-16",
+      "updated": "2020-10-18 15:15:35",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Wildfires;Disasters and Emergencies;Recession and Depression;Newsom, Gavin;Trump, Donald J;Cal Fire;Federal Emergency Management Agency;California;Fresno (Calif);Mendocino (Calif);San Bernardino (Calif);San Diego (Calif);Los Angeles (Calif)",
+      "column": null,
+      "byline": "By Thomas Fuller and Derrick Bryson Taylor",
+      "type": "Article",
+      "title": "Trump Reverses Decision to Reject California’s Request for Wildfire Relief",
+      "abstract": "The president gave his approval to a package of wildfire disaster relief only hours after officials from his administration had explained why the state should not receive the aid.",
+      "des_facet": [
+        "Wildfires",
+        "Disasters and Emergencies",
+        "Recession and Depression"
+      ],
+      "org_facet": [
+        "Cal Fire",
+        "Federal Emergency Management Agency"
+      ],
+      "per_facet": [
+        "Newsom, Gavin",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "California",
+        "Fresno (Calif)",
+        "Mendocino (Calif)",
+        "San Bernardino (Calif)",
+        "San Diego (Calif)",
+        "Los Angeles (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters extinguishing hotspots in Happy Camp, Calif., where the Slater Fire tore through the small, isolated mountain community in September.",
+          "copyright": "Bryan Denton for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/16/us/16fire-relief/16fire-relief-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/16/us/16fire-relief/merlin_177206376_10b68bb3-f882-4de1-8fff-ba73224ed50b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/16/us/16fire-relief/merlin_177206376_10b68bb3-f882-4de1-8fff-ba73224ed50b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/693ed752-0ea6-555b-bf21-c8571b752df9",
+      "url": "https://www.nytimes.com/2020/10/20/opinion/trump-campaign-.html",
+      "id": 100000007403055,
+      "asset_id": 100000007403055,
+      "source": "New York Times",
+      "published_date": "2020-10-20",
+      "updated": "2020-10-21 07:45:49",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Coronavirus (2019-nCoV);Trump, Donald J;Biden, Joseph R Jr;Democratic Party;Republican Party;United States",
+      "column": null,
+      "byline": "By Ross Douthat",
+      "type": "Article",
+      "title": "Trump Is Giving Up",
+      "abstract": "Against both the coronavirus and Joe Biden, the president’s strategy increasingly accepts defeat.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/opinion/20douthatNew/20douthatNew-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/opinion/20douthatNew/20douthatNew-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/20/opinion/20douthatNew/20douthatNew-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/249aa3e9-a98c-535e-91de-c19227a9454e",
+      "url": "https://www.nytimes.com/2020/10/19/nyregion/jean-carroll-trump-rape-lawsuit.html",
+      "id": 100000007398301,
+      "asset_id": 100000007398301,
+      "source": "New York Times",
+      "published_date": "2020-10-19",
+      "updated": "2020-10-20 09:15:10",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Presidential Election of 2020;Suits and Litigation (Civil);Libel and Slander;Immunity from Prosecution;Sex Crimes;Carroll, E Jean;Trump, Donald J;Barr, William P",
+      "column": null,
+      "byline": "By Benjamin Weiser and Alan Feuer",
+      "type": "Article",
+      "title": "Justice Dept. Says Trump’s Denial of Rape Accusation Was an Official Act",
+      "abstract": "The writer E. Jean Carroll sued the president for defamation after he denied sexually assaulting her in the 1990s. Now the government wants to defend him.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Suits and Litigation (Civil)",
+        "Libel and Slander",
+        "Immunity from Prosecution",
+        "Sex Crimes"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Carroll, E Jean",
+        "Trump, Donald J",
+        "Barr, William P"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "E. Jean Carroll’s lawyers have said that President Trump should respond to her suit as a private citizen and that the Justice Department should not be allowed to intervene in the case.",
+          "copyright": "Seth Wenig/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/nyregion/19carroll/19carroll-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/nyregion/19carroll/merlin_170013654_bcf37b48-0620-4c05-8d47-706896ae033b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/19/nyregion/19carroll/merlin_170013654_bcf37b48-0620-4c05-8d47-706896ae033b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

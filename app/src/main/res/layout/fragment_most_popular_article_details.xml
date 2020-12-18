@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="viewModel"
+            type="com.nytsample.presentation.ui.MostPopularDetailsViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="@dimen/_20sdp"
+        tools:context=".UserDetailsFragment">
+
+        <ImageView
+            android:id="@+id/ivAvatar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_200sdp"
+            android:layout_margin="@dimen/_5sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:mediumImageData="@{viewModel.mostPopularLiveData.media}" />
+
+        <TextView
+            android:id="@+id/tvCaption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_5sdp"
+            android:textColor="@color/title_color"
+            android:textSize="@dimen/_15sdp"
+            app:imageCaption="@{viewModel.mostPopularLiveData.media}"
+            app:layout_constraintBottom_toTopOf="@id/tvTitle"
+            app:layout_constraintTop_toBottomOf="@+id/ivAvatar" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_5sdp"
+            android:text="@{viewModel.mostPopularLiveData.title}"
+            android:textColor="@color/title_color"
+            android:textSize="@dimen/_15sdp"
+            app:layout_constraintBottom_toTopOf="@id/llpublishDate"
+            app:layout_constraintTop_toBottomOf="@+id/tvCaption" />
+
+
+        <LinearLayout
+            android:id="@+id/llpublishDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="@dimen/_5sdp"
+            app:layout_constraintBottom_toTopOf="@id/tvKeyWords"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvTitle">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/published_on"
+                android:textColor="@color/title_color"
+                android:textSize="@dimen/_15sdp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_5sdp"
+                android:layout_marginLeft="@dimen/_20sdp"
+                android:text="@{viewModel.mostPopularLiveData.published_date}"
+                android:textColor="@color/title_color"
+                android:textSize="@dimen/_15sdp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvKeyWords"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:padding="@dimen/_5sdp"
+            android:text="@{viewModel.mostPopularLiveData.adx_keywords}"
+            android:textColor="@color/title_color"
+            android:textSize="@dimen/_15sdp"
+            app:layout_constraintBottom_toTopOf="@id/tvByline"
+            app:layout_constraintTop_toBottomOf="@+id/llpublishDate" />
+
+        <TextView
+            android:id="@+id/tvByline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:padding="@dimen/_5sdp"
+            android:text="@{viewModel.mostPopularLiveData.byline}"
+            android:textColor="@color/title_color"
+            android:textSize="@dimen/_15sdp"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvKeyWords" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

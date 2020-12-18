@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="item"
+            type="com.nytsample.data.local.entity.MostPopular" />
+        <variable
+            name="listener"
+            type="com.nytsample.presentation.ui.listner.OnItemClickListener" />
+
+    </data>
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_5sdp"
+    app:contentPadding="@dimen/_5sdp"
+    android:onClick="@{() -> listener.onItemClick(item)}"
+    app:cardCornerRadius="@dimen/_5sdp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivAvatar"
+            android:layout_width="@dimen/_70sdp"
+            app:civ_border_width="2dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            app:civ_border_color="#FF000000"
+            android:layout_height="@dimen/_70sdp"
+            app:imageData="@{item.media}"/>
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_toRightOf="@+id/ivAvatar"
+            android:layout_toLeftOf="@+id/iv_arrow"
+            android:padding="@dimen/_5sdp">
+
+
+            <TextView
+                android:id="@+id/tvLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/title_color"
+                android:padding="@dimen/_5sdp"
+                android:maxLines="2"
+                android:layout_alignParentTop="true"
+                android:textSize="@dimen/_18ssp"
+                android:text="@{item.title}"
+                />
+            <TextView
+                android:id="@+id/tvAuther"
+                android:layout_width="wrap_content"
+                app:layout_constraintWidth_default="spread"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvLogin"
+                android:padding="@dimen/_5sdp"
+                android:maxLines="2"
+                android:maxLength="50"
+                android:layout_alignParentLeft="true"
+                android:textSize="@dimen/_15sdp"
+                android:text="@{item.byline}"
+                />
+            <TextView
+                android:id="@+id/tvHtmlUrl"
+                android:layout_width="wrap_content"
+                app:layout_constraintWidth_default="spread"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvLogin"
+                android:textColor="@color/title_color"
+                android:padding="@dimen/_5sdp"
+                android:maxLines="1"
+                android:maxLength="10"
+                android:drawablePadding="@dimen/_5sdp"
+                android:drawableLeft="@drawable/ic_calendar"
+                android:layout_marginTop="@dimen/_25sdp"
+                android:layout_alignParentRight="true"
+                android:textSize="@dimen/_15sdp"
+                android:text="@{item.updated}"
+                />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/iv_arrow"
+            android:src="@drawable/ic_right_black_24dp"
+            android:padding="@dimen/_15sdp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
+</layout>
